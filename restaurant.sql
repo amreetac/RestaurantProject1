@@ -1,3 +1,4 @@
+
 Create database RestaurantDB;
 Use RestaurantDB;
 
@@ -26,4 +27,5 @@ VALUES ('Tom', '123-678-8992', 'tom@y.com', 'tom8992'),
 ('Reeta', '678-678-1289', 'reeta@y.com', 'reeta1289'),
 ('Stef', '128-678-1189', 'stef@gcom', 'stef1189'),
 ('Wahid', '988-678-1863', 'wahid@y.com', 'wahid1863');
+
 
